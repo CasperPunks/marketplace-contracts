@@ -1,0 +1,15 @@
+node_modules
+.env
+keys.json
+target
+contracts/target
+contractinfo.json
+*.pem
+scripts
+marketplace-server
+casper-nft-cep47
+cep47
+package.json
+package-lock.json
+yarn.lock
+
